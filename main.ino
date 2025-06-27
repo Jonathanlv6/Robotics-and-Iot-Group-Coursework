@@ -1,6 +1,3 @@
-#define BLYNK_TEMPLATE_ID "TMPL6g_hfaQCK"
-#define BLYNK_TEMPLATE_NAME "24046566 Ankit Ghimire"
-#define BLYNK_AUTH_TOKEN "Ap30BZLZqN4CfNcvu_T_x1nMxMuq8yHM"
 
 // All the libraries needed for the project
 #include <WiFi.h> 
