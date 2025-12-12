@@ -16,7 +16,7 @@
 #define LCD_ROWS 2 // number of columns in the display
 
 
-char ssid[] = "Ankit's iphone"; // wifi ssid stored saved as a character array
+char ssid[] = "ssid"; // wifi ssid stored saved as a character array
 char pass[] = "12345679"; // wifi password
 
 BlynkTimer timer; // declaring a BlynkTimer object for sending real time data to Blynk in set interval
